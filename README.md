@@ -10,7 +10,10 @@ We created a database, containing two tables, Login information, and
 Employee information. Then we implemented the interface
 design using the PYQT5 library and added functionality to it.
 
-![image](https://user-images.githubusercontent.com/60229547/175056536-85fbfac9-c3bc-4c07-9e7a-a5cd41a9130a.png)
+
+https://user-images.githubusercontent.com/60229547/175058542-81b35e45-5659-4004-ad98-2b667a097ad7.mp4
+
+
 
 ## Prpject Outcomes
 
