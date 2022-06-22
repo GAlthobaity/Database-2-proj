@@ -1,0 +1,70 @@
+"Fname","Minit","Lname","Ssn","Bdate","Address","Sex","Salary","Super_ssn","Dno"
+"Alex","Al","Alex",1614905,"0000-00-00","626 Mary St,Dallas,TX","M",50000,444444400,6
+"Lisa","G","House",101248268,"0000-00-00","12 Maple St,Austin,TX","F",85000,0,7
+"Sunil","D","Gupta",110110110,"0000-00-00","4312 Bowen Rd,Arlington,T","M",80000,111111100,3
+"Jared","D","James",111111100,"0000-00-00","123 Peachtr,Atlanta,GA","M",85000,0,6
+"Jon","C","Jones",111111101,"0000-00-00","111 Allgood,Atlanta,GA","M",45000,111111100,6
+"Justin","L","Mark",111111102,"0000-00-00","2342 May,Atlanta,GA","M",40000,111111100,6
+"Brad","C","Knight",111111103,"0000-00-00","176 Main St.,Atlanta,GA","M",44000,111111100,6
+"Cameron","D","Thirteen",111422203,"0000-00-00","22 Univ Blvd,Arlington,TX","F",80000,987987987,4
+"Juan","G","Linda",112244668,"0000-00-00","1210 Apple St,Austin,TX","F",55000,0,8
+"John","B","Smith",123456789,"0000-00-00","731 Fondren,Houston,TX","M",30000,333445555,5
+"Debra","T","Hall",202843824,"0000-00-00","45 NY St,Rochester,NY","F",30000,555555501,6
+"Richard","T","Koelbel",214370999,"0000-00-00","50 Elk St,Chicago,IL","M",85000,999999999,4
+"Evan","E","Wallis",222222200,"0000-00-00","134 Pelham,Milwaukee,WI","M",92000,0,7
+"Josh","U","Zell",222222201,"0000-00-00","266 McGrady,Milwaukee,WI","M",56000,222222200,7
+"Andy","C","Vile",222222202,"0000-00-00","1967 Jordan,Milwaukee,WI","M",53000,222222200,7
+"Tom","G","Brand",222222203,"0000-00-00","112 Third St,Milwaukee,WI","M",62500,222222200,7
+"Jenny","F","Vos",222222204,"0000-00-00","263 Mayberry,Milwaukee,WI","F",61000,222222201,7
+"Chris","A","Carter",222222205,"0000-00-00","565 Jordan,Milwaukee,WI","F",43000,222222201,7
+"John","T","Ed",222333444,"0000-00-00","4505 West St,Rochester,NY","M",30000,555555501,6
+"Jennifer","A","Joy",223344667,"0000-00-00","1204 Main St,Miami,FL","F",45000,666666613,8
+"willie","D","Mary",234234234,"0000-00-00","101 South St,Arlington,TX","F",12000,112244668,9
+"Christina","S","Hisel",241625699,"0000-00-00","37 Church Row,Rochester,N","F",45000,123456789,6
+"Erin","A","Maxfield",242535609,"0000-00-00","123 Copper St,Arlington,T","F",72000,555555500,8
+"Wilson","A","Holmes",242916639,"0000-00-00","21 South Co,Arlington,TX","M",72500,555555500,4
+"Jake","D","Sheen",245239264,"0000-00-00","20 North Co,Arlington,TX","M",52000,112244668,6
+"Megan","G","Jones",254937381,"0000-00-00","528 Stone CT,Chicago,IL","F",62000,666666600,8
+"Jisha","A","Carpenter",292740167,"0000-00-00","194 Beachdr,Miami,FL","F",15000,666666613,1
+"Kim","C","Grace",333333300,"0000-00-00","667 Mills Ave,Sacramento,","F",79000,0,7
+"Jeff","H","Chase",333333301,"0000-00-00","15 Bradbury,Sacramento,CA","M",44000,333333300,6
+"Frank","T","Wong",333445555,"0000-00-00","638 Voss,Houston,TX","M",40000,123456789,5
+"Jose","H","Barbara",343434344,"0000-00-00","905 East St,Kleen,TX","F",35000,444444400,6
+"Leonard","H","Moody",349273344,"0000-00-00","908 Greek Row,Austin,TX","M",45000,444444400,7
+"Percy","M","Liang",398172999,"0000-00-00","14 Maple St,Austin,TX","M",55000,0,9
+"Gregory","G","Laurie",444212096,"0000-00-00","78 Tree Cir,Houston,TX","M",90000,444444400,7
+"Kim","G","Ted",444222666,"0000-00-00","3648 Tree Cir,Austin,TX","M",50000,999999999,8
+"Alex","D","Freed",444444400,"0000-00-00","4333 Pillsbury,Milwaukee,","M",89000,0,7
+"Bonnie","S","Bays",444444401,"0000-00-00","111 Hollow,Milwaukee,WI","F",70000,444444400,7
+"Alec","C","Best",444444402,"0000-00-00","233 Solid,Milwaukee,WI","M",60000,444444400,7
+"Sam","S","Snedden",444444403,"0000-00-00","97 Windy St,Milwaukee,WI","M",48000,444444400,7
+"Joyce","A","English",453453453,"0000-00-00","5631 Rice Oak,Houston,TX","F",25000,333445555,5
+"John","C","James",555555500,"0000-00-00","766 Bloomington,Sacrament","M",81000,0,8
+"Nandita","K","Ball",555555501,"0000-00-00","222 Howard,Sacramento,CA","M",62000,555555500,6
+"Andrea","M","Sondrini",614370310,"0000-00-00","1450 Worthington St,Houst","F",65000,444444401,5
+"Michael","A","Morgan",636669233,"0000-00-00","26 Sunset Blvd,Miami,FL","M",73500,666666612,5
+"Bob","B","Bender",666666600,"0000-00-00","8794 Garfield,Chicago,IL","M",96000,0,8
+"Jill","J","Jarvis",666666601,"0000-00-00","6234 Lincoln,Chicago,IL","F",36000,666666600,8
+"Kate","W","King",666666602,"0000-00-00","1976 Boone Trace,Chicago,","F",44000,666666600,8
+"Lyle","G","Leslie",666666603,"0000-00-00","417 Hancock Ave,Chicago,I","M",41000,666666601,8
+"Billie","J","King",666666604,"0000-00-00","556 Washington,Chicago,IL","F",38000,666666603,8
+"Jon","A","Kramer",666666605,"0000-00-00","1988 Windy Creek,Seattle,","M",41500,666666603,8
+"Ray","H","King",666666606,"0000-00-00","213 Delk Road,Seattle,WA","M",44500,666666604,8
+"Gerald","D","Small",666666607,"0000-00-00","122 Ball Street,Dallas,TX","M",29000,666666602,8
+"Arnold","A","Head",666666608,"0000-00-00","233 Spring St,Dallas,TX","M",33000,666666602,8
+"Helga","C","Pataki",666666609,"0000-00-00","101 Holyoke St,Dallas,TX","F",32000,666666602,8
+"Naveen","B","Drew",666666610,"0000-00-00","198 Elm St,Philadelphia,P","M",34000,666666607,8
+"Carl","E","Reedy",666666611,"0000-00-00","213 Ball St,Philadelphia,","M",32000,666666610,8
+"Sammy","G","Hall",666666612,"0000-00-00","433 Main Street,Miami,FL","M",37000,666666611,8
+"Red","A","Bacher",666666613,"0000-00-00","196 Elm Street,Miami,FL","M",33500,666666612,8
+"Ramesh","K","Narayan",666884444,"0000-00-00","971 Fire Oak,Humble,TX","M",38000,333445555,5
+"Penny","G","Wolowitz",673466642,"0000-00-00","42 South Blvd,Miami,FL","F",17000,222333444,6
+"Sheldon","C","Cucuou",849934919,"0000-00-00","11 Hollywood Blvd,Dallas,","M",35500,123456789,8
+"James","E","Jordan",888665151,"0000-00-00","450 Stone,Houston,TX","M",55000,0,1
+"James","U","Miller",906218888,"0000-00-00","13 Fifth St,Seattle,WA","M",75000,999999999,5
+"Joseph","K","Kirkish",913323708,"0000-00-00","22 UT Blvd,Austin,TX","M",95000,0,7
+"Zach","A","Geller",913353347,"0000-00-00","333 PikeWay,Seattle,WA","M",55000,444444403,6
+"Jennifer","S","Wallace",987654321,"0000-00-00","291 Berry,Bellaire,TX","F",43000,123456789,4
+"Ahmad","V","Jabbar",987987987,"0000-00-00","980 Dallas,Houston,TX","M",25000,987654321,4
+"Alicia","J","Zelaya",999887777,"0000-00-00","3321 Castle,Spring,TX","F",25000,987654321,4
+"Roy","C","Lewallen",999999999,"0000-00-00","14 Wynncrest Street,Dalla","M",75500,666666600,8
